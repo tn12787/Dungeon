@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1412469802 source:c:\users\tom\desktop\dev\dungeon - level compiler\dcompile.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<ctype.h>
+

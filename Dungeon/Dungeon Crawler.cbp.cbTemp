@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dungeon Crawler" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Dungeon Crawler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="icc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="/fast" />
+					<Add option="-O3" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="irrKlang-1.5.0\lib\Win32-gcc\libirrKlang.a" />
+					<Add library="irrKlang-1.5.0\bin\win32-gcc\irrKlang.dll" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Dungeon Crawler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add library="comctl32" />
+		</Linker>
+		<Unit filename="D_Data.cpp" />
+		<Unit filename="D_Data.hpp" />
+		<Unit filename="D_Game.cpp" />
+		<Unit filename="D_Game.hpp" />
+		<Unit filename="D_Headers.hpp" />
+		<Unit filename="D_Interface.cpp" />
+		<Unit filename="D_Interface.hpp" />
+		<Unit filename="D_Types.hpp" />
+		<Unit filename="Dungeon.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<wxsmith version="1">
+				<gui name="wxWidgets" src="" main="" init_handlers="necessary" language="CPP" />
+				<resources>
+					<wxFrame wxs="wxsmith/NewFrame.wxs" src="NewFrame.cpp" hdr="NewFrame.h" fwddecl="0" i18n="1" name="NewFrame" language="CPP" />
+					<wxFrame wxs="wxsmith/cocks.wxs" src="cocks.cpp" hdr="cocks.h" fwddecl="0" i18n="1" name="cocks" language="CPP" />
+				</resources>
+			</wxsmith>
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

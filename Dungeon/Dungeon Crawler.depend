@@ -1,0 +1,428 @@
+# depslib dependency file v1.0
+1395861436 source:c:\users\tom\desktop\dungeon game\dungeon crawler\dungeon.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<string.h>
+	<tchar.h>
+
+1333914112 source:c:\users\tom\desktop\dungeon game\dungeon crawler\main.cpp
+	<windows.h>
+
+1406756354 source:c:\users\tom\desktop\programming\dungeon game\dungeon crawler\dungeon.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<string.h>
+	<tchar.h>
+
+1410531111 source:c:\users\tom\desktop\programming\dungeon\dungeon.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<string.h>
+	<tchar.h>
+	"irrKlang-1.5.0/include/irrKlang.h"
+
+1346458214 c:\users\tom\desktop\programming\dungeon\portaudio\include\portaudio.h
+
+1398491010 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394099054 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_irrklangtypes.h
+	<wchar.h>
+
+1399015938 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394088900 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_esoundoutputdrivers.h
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_esoundengineoptions.h
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_estreammodes.h
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1394096464 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1394096452 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1394096448 c:\users\tom\desktop\programming\dungeon\irrklang-1.5.0\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1430999982 source:c:\users\tom\desktop\dev\dungeon\dungeon.cpp
+	"D_Headers.hpp"
+
+1398491010 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394099054 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_irrklangtypes.h
+	<wchar.h>
+
+1399015938 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394088900 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_esoundoutputdrivers.h
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_esoundengineoptions.h
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_estreammodes.h
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1394096464 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1394096452 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1394096448 c:\users\tom\desktop\dev\dungeon\irrklang-1.5.0\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1412209882 source:c:\dev\codeblocks\dungeon\dungeon.cpp
+	"D_Headers.hpp"
+
+1398494610 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394099054 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_irrklangtypes.h
+	<wchar.h>
+
+1399019538 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394088900 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_esoundoutputdrivers.h
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_esoundengineoptions.h
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_estreammodes.h
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1394096464 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1394096452 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394088894 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1394096448 c:\dev\codeblocks\dungeon\irrklang-1.5.0\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1412208888 source:c:\dev\codeblocks\dungeon\d_data.cpp
+	"D_Headers.hpp"
+
+1412229113 c:\dev\codeblocks\dungeon\d_headers.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string.h>
+	<tchar.h>
+	"irrKlang-1.5.0/include/irrKlang.h"
+	"D_Types.hpp"
+	"D_Game.hpp"
+	"D_Interface.hpp"
+	"D_Data.hpp"
+
+1412207165 c:\dev\codeblocks\dungeon\d_games.hpp
+
+1412206437 c:\dev\codeblocks\dungeon\d_interfaces.hpp
+
+1412207066 c:\dev\codeblocks\dungeon\d_datas.hpp
+
+1412209676 c:\dev\codeblocks\dungeon\d_game.hpp
+	"D_Headers.hpp"
+
+1412207849 c:\dev\codeblocks\dungeon\d_interface.hpp
+	"D_Headers.hpp"
+
+1412209575 c:\dev\codeblocks\dungeon\d_data.hpp
+	"D_Headers.hpp"
+
+1412209727 source:c:\dev\codeblocks\dungeon\d_game.cpp
+	"D_Headers.hpp"
+
+1412210393 source:c:\dev\codeblocks\dungeon\d_interface.cpp
+	"D_Headers.hpp"
+
+1412229107 c:\dev\codeblocks\dungeon\d_types.hpp
+
+1412469111 source:c:\users\tom\desktop\dev\dungeon\d_data.cpp
+	"D_Headers.hpp"
+
+1412225513 c:\users\tom\desktop\dev\dungeon\d_headers.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<string.h>
+	<tchar.h>
+	"irrKlang-1.5.0/include/irrKlang.h"
+	"D_Types.hpp"
+	"D_Game.hpp"
+	"D_Interface.hpp"
+	"D_Data.hpp"
+
+1412464043 c:\users\tom\desktop\dev\dungeon\d_types.hpp
+
+1412465777 c:\users\tom\desktop\dev\dungeon\d_game.hpp
+	"D_Headers.hpp"
+
+1412265484 c:\users\tom\desktop\dev\dungeon\d_interface.hpp
+	"D_Headers.hpp"
+
+1412465154 c:\users\tom\desktop\dev\dungeon\d_data.hpp
+	"D_Headers.hpp"
+
+1430999923 source:c:\users\tom\desktop\dev\dungeon\d_game.cpp
+	"D_Headers.hpp"
+
+1412276249 source:c:\users\tom\desktop\dev\dungeon\d_interface.cpp
+	"D_Headers.hpp"
+
